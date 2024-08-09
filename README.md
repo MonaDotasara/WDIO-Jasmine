@@ -10,4 +10,4 @@
 
 1. Execute tests
     ```sh
-    npm run wdio
+    npm run test
